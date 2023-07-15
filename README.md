@@ -25,9 +25,9 @@ The project involves the use of Pushdown Automata (PDA) and Turing Machine (TM) 
 
 ## Contributors
 
+- Nerella Geetha Krishna (CB.EN.U4CSE21040)
 - Tangudu Harsha Vardhan (CB.EN.U4CSE21062)
 - Manthini Meher Vardhan (CB.EN.U4CSE21034)
-- Nerella Geetha Krishna (CB.EN.U4CSE21040)
 - N.G.R.Krishna Reddy (CB.EN.U4CSE21039)
 - Katta Rahul Krishna (CB.EN.U4CSE21029)
 
