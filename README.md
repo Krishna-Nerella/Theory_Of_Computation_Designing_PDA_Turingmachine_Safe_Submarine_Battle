@@ -1,0 +1,2 @@
+# Theory_Of_Computation_Designing_PDA_Turingmachine_Safe_Submarine_Battle
+Designing Pushdown Automata and Turing machine for Safe Submarine Battle
